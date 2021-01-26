@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.</h3>
+<h3 align="center">Whatever you decide to do, make sure it makes you happy.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awesomely2201&label=Profile%20views&color=0e75b6&style=flat" alt="awesomely2201" /> </p>
 
 - 🔭 I’m currently working on a lot of things.
